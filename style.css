@@ -16,19 +16,37 @@
 
 body{
     background: var(--cyanD) no-repeat;
-
+    
+    
+    /* width: 100vw;
+    height: 730px */
 }
 
-body,.container,.circle{
+/* body,.container,.circle{
+    
+} */
+.container{
     width: 100vw;
     height: 100vh;
+    overflow: hidden;
 }
 
-
 /* circle */
+/* .circle{ */
+
+/* } */
+.c1{
+    display: absolute;
+    transform: translate(-20%,-50%)
+}
+
+.c2{
+    display: absolute;
+    transform: translate(80%,-60%)
+}
 
 /* card */
 
 /* attribution */
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 11px; text-align: center;}
 .attribution a { color: hsl(228, 45%, 44%); }
