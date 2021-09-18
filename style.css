@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: 18px 'Kumbh Sans', sans-serif;
+}
+
+:root{
+    /* Primary */
+    --cyanD: hsl(185, 75%, 39%);
+    --Dblue: hsl(229, 23%, 23%);
+    --Gblue: hsl(227, 10%, 46%);
+    /* Neutral */
+    --Dgray: hsl(0, 0%, 59%);
+}
+
+body{
+    background: var(--cyanD) no-repeat;
+
+}
+
+body,.container,.circle{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+/* circle */
+
+/* card */
+
+/* attribution */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
