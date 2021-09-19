@@ -116,7 +116,7 @@ h3{
 
 
 /* attribution */
-footer {
+.attribution {
     font-size: 1.1rem;
     position:absolute; 
     bottom: 0; 
@@ -125,6 +125,7 @@ footer {
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+    font-size: 1.1rem;
 }
 
 
