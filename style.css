@@ -1,3 +1,4 @@
+/* variables */
 :root{
     /* Primary */
     --cyanD: hsl(185, 75%, 39%);
@@ -7,9 +8,12 @@
     /* Neutral */
     --Dgray: hsl(0, 0%, 59%);
 
-    font-size: 62.5%; /* 10px */
+    font-size: 62.5%; /* 1 rem = 10px */
 }
 
+
+
+/* default */
 *{
     margin: 0;
     padding: 0;
@@ -17,8 +21,9 @@
     font: 1.8rem 'Kumbh Sans', sans-serif;
     font-weight: 400;
     color: var(--Gblue);
-    line-height: 3rem;
 }
+
+
 
 /* circle */
 body{
@@ -31,6 +36,8 @@ body{
     display: grid;
     place-items: center;
 }
+
+
 
 /* card */
 .card {
@@ -78,16 +85,18 @@ h3{
 .card__pri{
     grid-row: 4/5;
     text-align: center;
-    position: relative;
-    line-height: 3rem;    
+    position: relative;    
 }
 
 .card__sec{
     grid-row: 5;
     display: flex;
     justify-content: space-evenly;
-    border-top: 1px solid var(--Dgray);
-    line-height: 2rem;    
+    border-top: 1px solid var(--Dgray); 
+}
+
+.card__pri section *{
+    line-height: 3rem;
 }
 
 .card__sec section{
@@ -95,6 +104,10 @@ h3{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.card__sec section *{
+    line-height: 2rem;
 }
 
 
