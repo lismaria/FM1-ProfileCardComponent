@@ -6,8 +6,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Build out the project to the designs provided
 - Screenshot
-    ![Desktop](ss/desktop-design.jpg)
-    ![Mobile](ss/mobile-design.jpg)
+    ![Desktop](ss/desktop.png)
+    ![Mobile](ss/mobile.png)
 
 
 ## Links
