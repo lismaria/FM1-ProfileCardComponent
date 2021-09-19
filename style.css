@@ -10,39 +10,17 @@
     --cyanD: hsl(185, 75%, 39%);
     --Dblue: hsl(229, 23%, 23%);
     --Gblue: hsl(227, 10%, 46%);
+    
     /* Neutral */
     --Dgray: hsl(0, 0%, 59%);
 }
 
-body{
-    background: var(--cyanD) no-repeat;
-    
-    
-    /* width: 100vw;
-    height: 730px */
-}
-
-/* body,.container,.circle{
-    
-} */
-.container{
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
-}
-
 /* circle */
-/* .circle{ */
-
-/* } */
-.c1{
-    display: absolute;
-    transform: translate(-20%,-50%)
-}
-
-.c2{
-    display: absolute;
-    transform: translate(80%,-60%)
+body{
+    background: var(--cyanD);
+    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: top -65vh right 50vw, top 50vh left 50vw;
 }
 
 /* card */
