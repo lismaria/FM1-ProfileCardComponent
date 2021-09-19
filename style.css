@@ -30,7 +30,7 @@ body{
     animation: 2s circles ease-out forwards;
     background: var(--cyanD);
     /* background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg); */
-    /*background-position: top -65vh right 50vw, top 50vh left 50vw;                                            /*  https://css-tricks.com/almanac/properties/b/background-position/ */
+    /* background-position: top -65vh right 50vw, top 50vh left 50vw;                                            /*  https://css-tricks.com/almanac/properties/b/background-position/ */
     background-repeat: no-repeat, no-repeat;
     overflow: hidden;
     height: 100vh;
