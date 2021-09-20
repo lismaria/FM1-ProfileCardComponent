@@ -45,9 +45,9 @@ body{
 .card {
     background-color:  #fff;
     width: 100%;
-    max-width: 35rem;
+    max-width: 32rem;
     height: 100%;
-    max-height: 39rem;
+    max-height: 35rem;
     border-radius: 15px;
     display: grid;
     grid-template-rows: repeat(5,1fr);
@@ -95,7 +95,7 @@ h2{
     grid-row: 5;
     display: flex;
     justify-content: space-evenly;
-    border-top: .05rem solid var(--Dgray); 
+    border-top: .05rem solid hsl(0deg 0% 59% / 20%) 
 }
 
 .card__pri section *{
