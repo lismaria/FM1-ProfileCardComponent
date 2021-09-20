@@ -45,9 +45,9 @@ body{
 .card {
     background-color:  #fff;
     width: 100%;
-    max-width: 32rem;
+    max-width: 34rem;
     height: 100%;
-    max-height: 35rem;
+    max-height: 38rem;
     border-radius: 15px;
     display: grid;
     grid-template-rows: repeat(5,1fr);
