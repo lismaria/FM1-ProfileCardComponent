@@ -5,9 +5,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Links
 
-- ### Solution: [solution-link](https://github.com/lismaria/FM1-ProfileCardComponent)
-- ### Live Site: [site-link](https://lismaria.github.io/FM1-ProfileCardComponent/)
-- ### Blog Post: [dev.to](https://dev.to/lismaria/profile-card-challenge-frontendmentor-io-3d51)
+- Solution: [solution-link](https://github.com/lismaria/FM1-ProfileCardComponent)
+- Live Site: [site-link](https://lismaria.github.io/FM1-ProfileCardComponent/)
+- Blog Post: [dev.to](https://dev.to/lismaria/profile-card-challenge-frontendmentor-io-3d51)
 
 ## The challenge
 
