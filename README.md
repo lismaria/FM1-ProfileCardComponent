@@ -12,16 +12,14 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Links
 
-- ### Solution URL: [solution-link](https://github.com/lismaria/FM1-ProfileCardComponent)
-- ### Live Site URL: [site-link](https://lismaria.github.io/FM1-ProfileCardComponent/)
-
+- ### Solution: [solution-link](https://github.com/lismaria/FM1-ProfileCardComponent)
+- ### Live Site: [site-link](https://lismaria.github.io/FM1-ProfileCardComponent/)
+- ### Blog Post: [dev.to](https://dev.to/lismaria/profile-card-challenge-frontendmentor-io-3d51)
 
 ## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Flexbox
 - CSS Grid
-- Mobile-first workflow
-- CSS animations
-
+- CSS Animations
